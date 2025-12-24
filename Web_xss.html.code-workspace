@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"typescript.disableAutomaticTypeAcquisition": true,
+		"git.autofetch": "all"
+	}
+}
